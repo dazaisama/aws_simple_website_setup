@@ -1,3 +1,9 @@
+Thanks to Intellipat:
+Follow this youtube video for complete demonstration on setting up a website on aws ec2 instance.
+https://www.youtube.com/watch?v=7Gym2XVcA5A
+
+
+
 sudo apt-get update
 # For Sql-client
 sudo apt-get install mysql-client
