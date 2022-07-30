@@ -1,0 +1,6 @@
+customhost = "sribalajicustomer.cilr2iexz7wg.ap-south-1.rds.amazonaws.com"
+customuser = "admin"
+custompass = "Calypso123"
+customdb = "employee"
+custombucket = "sribalajicustomer"
+customregion = "ap-south-1c"
